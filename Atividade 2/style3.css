@@ -1,0 +1,12 @@
+img{
+    width:150px;
+    height: 200px;
+    margin-right: 20px;
+    border: 1px black solid;
+}
+ul{
+    width: 100px;
+    border: 5px pink solid;
+    border-collapse: collapse;
+    color: indigo;
+}

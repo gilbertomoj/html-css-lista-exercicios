@@ -1,0 +1,36 @@
+body{
+    background-color: pink;
+    text-align: center;
+}
+p{
+    font-size: 12px;
+}
+.title{
+    color: #8b0000;
+    text-shadow: 0 0 1em DarkSalmon;}
+.musica{
+    background-color: white;
+    margin: auto;
+    width: 99%;
+    border: 1px solid orange;
+    padding: 15px 0px 15px 0px;
+}
+img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 30%;
+    border-radius: 30px;
+    box-shadow: 10px 5px 5px orange;
+}
+
+
+
+
+footer{
+    background-color: white;
+    text-align: center;
+    height: 40px;
+    width: 99%;
+    border: 1px solid orange;
+    padding: 15px 0px 15px 0px;
+}

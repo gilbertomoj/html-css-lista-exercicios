@@ -1,0 +1,23 @@
+body{
+    background-color: lightcyan;
+}
+p{
+    color: #8b0000;
+    text-transform: lowercase;
+}
+p:first-child{
+    text-transform: uppercase;
+
+}
+a{
+    text-decoration: none;
+    text-decoration: line-through;
+}
+h1{
+    font-style: italic;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    text-align: center;
+}
+.p1{
+    text-align: right;
+}

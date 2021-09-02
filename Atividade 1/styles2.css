@@ -1,0 +1,13 @@
+ul{
+    border: 1px solid pink;
+    width: 300px;
+    margin: 10px;
+}
+li{
+    color: indigo;
+}
+
+img{
+    width: 150px;
+    height: 200px;
+}

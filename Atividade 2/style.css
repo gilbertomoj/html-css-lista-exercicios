@@ -1,0 +1,29 @@
+table, tr, td{
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+thead{
+    font-weight: bold;
+}
+table{
+    width: 300px;
+}
+.type{
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+#aproved, #reproved{
+    text-align: center;
+}
+#aproved{
+    color: green;
+}
+#reproved{
+    color: red;
+}
+#bg-0{
+    background-color: gray;
+}
